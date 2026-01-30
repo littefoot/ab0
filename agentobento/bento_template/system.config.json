@@ -1,0 +1,19 @@
+{
+  "projectName": "New Project",
+  "version": "1.0.0",
+  "created_at": "2026-01-07T00:00:00Z",
+  "modules": {
+    "discovery": true,
+    "strategy": true,
+    "assets": true,
+    "operations": true
+  },
+  "theme": {
+    "primaryColor": "#ff5733",
+    "darkMode": true
+  },
+  "settings": {
+    "zoomSensitivity": 1.2,
+    "autoSave": true
+  }
+}
